@@ -41,16 +41,4 @@ A Visual Studio Code themed developer portfolio built with [Next.js](https://nex
 
     Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## 📝 Configuration
 
-Create a `.env.local` file in the root directory and add your GitHub and DEV.to API keys:
-
-```env
-NEXT_PUBLIC_GITHUB_USERNAME=Ommali8421
-GITHUB_API_KEY=your_github_api_key
-DEV_TO_API_KEY=your_dev_to_api_key
-```
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
